@@ -3,6 +3,10 @@ Hello World!
 This is a website that rickroll someone! This is made with svelte an framework.
 You can do anything with code but make sure to **CREDIT ME**! 
 ## Setting it up
+### Cloning the repository
+```
+git clone https://github.com/marcussaw123/rickroll/
+```
 ### Installing all the packages
 ```
 npm install
