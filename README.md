@@ -20,4 +20,4 @@ Then navigate to http://localhost:5000
 5. Drag and drop the public folder
 6. Now you can configure the site name and it should be hosted
 
-#Have Fun And Rickroll Your Friends
+# Have Fun And Rickroll Your Friends
