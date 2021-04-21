@@ -2,7 +2,7 @@
 Hello World!
 This is a website that rickroll someone! This is made with svelte an framework.
 You can do anything with code but make sure to **CREDIT ME**! 
-### Setting it up
+## Setting it up
 ### Installing all the packages
 ```
 npm install
